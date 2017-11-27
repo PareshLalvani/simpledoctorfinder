@@ -1,0 +1,5 @@
+http://phpflow.com/php/simple-ajax-pagination-with-php/
+
+http://phpflow.com/code/css/bootstrap3.min.css
+
+http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.2.min.js
